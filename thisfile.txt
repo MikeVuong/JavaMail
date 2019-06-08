@@ -1,0 +1,8 @@
+Server:smtp.gmail.com
+User:****@gmail.com
+Password:****
+To:****@gmail.com
+CC:****@gmail.com,****@myseneca.ca,****@hotmail.com
+BCC:****@gmail.com,****@gmail.com,****@gmail.com
+Subject:email
+Body:This is a example body for email sending
