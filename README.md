@@ -5,4 +5,4 @@ The sender and receiver information is based off the thisfile.txt and can be cha
 
 - Included base code to send generic emails
 - Included the use of attachments if the user wishes to send attachments
-- Included the abilty to remotely check unread emails on command line
+- Included the ability to remotely check unread emails on command line
